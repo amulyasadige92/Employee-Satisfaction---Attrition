@@ -49,7 +49,7 @@ A relationship diagram between the sheets is shown below:
 
 - Excel — data analysis, exploratory analysis
 - Power Query — pivot tables and functions used for analysis
-- Power BI — a supplementary version of the dashboard was also built here (see [Project Structure](#project-structure))
+- Power BI — a supplementary version of the dashboard was also built here (see [Project Structure](#PowerBI.png))
 
 ## Project Structure
 
@@ -271,7 +271,6 @@ The Excel dashboard includes:
 1. Download the `.pbix` file.
 2. Open it in Power BI Desktop.
 3. If prompted, update the data source path to point to the `.xlsx` file on your machine, then refresh the data.
-   ![Visualization in powerBI](images/PowerBI.png)
 
 ## Final Recommendations
 
@@ -281,7 +280,7 @@ The Excel dashboard includes:
 
 ## Author & Contact
 
-- **Name:** [Your-Name] Amulya Sadige
-- **Email:** [your.email@example.com] amulya.sadige92@gmail.com
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/amulya-sadige)
-- **GitHub:** [github.com/your-username](https://github.com/amulyasadige92)
+- **Name:** Amulya Sadige
+- **Email:** amulya.sadige92@gmail.com
+- **LinkedIn:** (https://linkedin.com/in/amulya-sadige)
+- **GitHub:** (https://github.com/amulyasadige92)
