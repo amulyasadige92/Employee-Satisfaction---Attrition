@@ -49,7 +49,7 @@ A relationship diagram between the sheets is shown below:
 
 - Excel — data analysis, exploratory analysis
 - Power Query — pivot tables and functions used for analysis
-- Power BI — a supplementary version of the dashboard was also built here (see [Project Structure](#powerbi.png))
+- Power BI — a supplementary version of the dashboard was also built here (see [Project Structure](images/powerbi.png)
 
 ## Project Structure
 
