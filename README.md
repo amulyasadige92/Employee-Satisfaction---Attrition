@@ -43,13 +43,13 @@ The dataset has 3 sheets:
 
 A relationship diagram between the sheets is shown below:
 
-![Relationship diagram between General_Data, Employee Rating, and Manager Rating tables](images/relationship-diagram.png)
+![Relationship diagram between General_Data, Employee Rating, and Manager Rating tables](images/er.png)
 
 ## Tools & Technologies
 
 - Excel — data analysis, exploratory analysis
 - Power Query — pivot tables and functions used for analysis
-- Power BI — a supplementary version of the dashboard was also built here (see [Project Structure](#PowerBI.png))
+- Power BI — a supplementary version of the dashboard was also built here (see [Project Structure](#powerbi.png))
 
 ## Project Structure
 
@@ -180,12 +180,12 @@ Evaluated to check for gender-based discrimination or disparity. No meaningful d
 **3. Job role and attrition**
 Analyzed to check for a correlation between job role and attrition, using a horizontal column chart across all roles in the organization.
 
-![Job role vs attrition horizontal bar chart](images/job-role.png)
+![Job role vs attrition horizontal bar chart](images/jobrole.png)
 
 **4. Age impact on attrition**
 The highest attrition is seen in the 18–30 age bracket, accounting for 41% of attrition. This may point to a lack of challenging work or stagnated growth and learning opportunities. Represented with a pie chart.
 
-![Age distribution vs attrition pie chart](images/age-distribution.png)
+![Age distribution vs attrition pie chart](images/age.png)
 
 **5. Talent leaving the organization**
 Every organization is concerned about losing top talent, so a chart was built to check the relationship between performance rating and attrition.
@@ -230,7 +230,7 @@ Overall employee satisfaction by role is shown in a line chart to highlight the 
 
 > **Note:** the line chart shows a sharp dip to 1.67 for one role, well below the 2.6–2.9 range for all others. This should be verified against the source data before publishing, since it looks like a possible outlier or data entry issue rather than a genuine trend.
 
-![Overall satisfaction score by job role, line chart](images/overall-score.png)
+![Overall satisfaction score by job role, line chart](images/overall.png)
 
 ## Research Questions & Key Findings
 
