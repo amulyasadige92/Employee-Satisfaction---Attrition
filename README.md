@@ -257,7 +257,7 @@ The Excel dashboard includes:
   8. Daily commute vs. attrition
   9. Heat map linking all rating dimensions to attrition
 
-![Employee Satisfaction & Attrition Dashboard, showing headcount, attrition rate, and breakdowns by department, gender, age, job role, performance, salary, manager tenure, and commute](images/dashboard.jpeg)
+![Employee Satisfaction & Attrition Dashboard, showing headcount, attrition rate, and breakdowns by department, gender, age, job role, performance, salary, manager tenure, and commute](images/dashboard.png)
 
 ## How to Run This Project
 
